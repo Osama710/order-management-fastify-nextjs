@@ -1,0 +1,28 @@
+body {
+  background: #fff;
+}
+.flex {
+  display: flex;
+}
+.flex_between {
+  justify-content: space-between;
+}
+
+.site-layout {
+  padding: 20px;
+}
+table {
+  margin: 10px 0;
+}
+table th {
+  background: #001529 !important;
+  color: #fff !important;
+}
+#product_products {
+  gap: 10px;
+}
+
+.select_dropdown {
+  width: 200px;
+  min-width: 200px;
+}
